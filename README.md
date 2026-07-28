@@ -1,4 +1,4 @@
-# Algo Verse Premium - DSA Bootcamp Platform
+# AlgoTrack Premium - DSA Bootcamp Platform
 
 A full-featured, interactive DSA (Data Structures & Algorithms) learning platform. Built with Next.js 16, TypeScript, Tailwind CSS, and Monaco Editor.
 
