@@ -1,6 +1,6 @@
-# TUF+ Premium - DSA Bootcamp Platform
+# Algo Verse Premium - DSA Bootcamp Platform
 
-A full-featured, interactive DSA (Data Structures & Algorithms) learning platform inspired by TakeUForward's TUF+ Pinnacle subscription. Built with Next.js 16, TypeScript, Tailwind CSS, and Monaco Editor.
+A full-featured, interactive DSA (Data Structures & Algorithms) learning platform. Built with Next.js 16, TypeScript, Tailwind CSS, and Monaco Editor.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)
@@ -227,7 +227,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Inspired by [TakeUForward](https://takeuforward.org/) and the TUF+ platform
 - Problem content inspired by popular DSA preparation resources
 - Built for educational purposes
 
